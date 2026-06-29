@@ -41,4 +41,18 @@ sayHello(); Function ko call karna, yani usay chalana.
 Output
 <br>
 Hello!
+<br>
+_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x
+<br>
+
+function sayHello() {
+    console.log("Hello!");
+}
+
+sayHello();
+<br>
+<br>
+daykho. function (function name)
+<br>
+        (function) mention krty Hyn qk code ko batana hota Hy function ka option use Kiya Hy. it's like customizing your own function. I'm your own way. tumko age ik big project banana Hy like an app. ab uky hr page pr home page k option ana chaya in chrome Tum jitny bhi tab open kro upper home icon ATA Hy. to us code ko bar bar to likh sakty nhi hyn. to hm usko ik function my likh lyty hyn.jasy <br> function homePage() { <link> with home icon link and button <link>}.<br> ab bar bar Tum itni sari link to kro gy nhi. comlex code or complet ho jata Hy. to Tum direct APNA function call krty ho.
 
