@@ -2,8 +2,7 @@
 for edit
 <br>
 Author- 𝗠𝗔𝗛𝗡𝗢𝗢𝗥 𝗔𝗡𝗦𝗔𝗥𝗜
-
-//Function kya hota hai?
+Function kya hota hai?
 <br>
 Function JavaScript mein code ka ek block hota hai jo ek specific kaam karta hai. Isay ek baar likhte hain aur jab zarurat ho, usay baar baar chala (call) sakte hain.
 <br>
